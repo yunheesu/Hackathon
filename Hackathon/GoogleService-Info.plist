@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>837480601024-0nqc1tvlqi5sfnqgiager673k8qrqg0m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.837480601024-0nqc1tvlqi5sfnqgiager673k8qrqg0m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAB3QkktYk42A0mdISbwcnKlqlzERR6tn4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>837480601024</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yun.Hackathon</string>
+	<key>PROJECT_ID</key>
+	<string>hackathon-8a22b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hackathon-8a22b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:837480601024:ios:199c6327379e53a6632425</string>
+	<key>DATABASE_URL</key>
+	<string>https://hackathon-8a22b.firebaseio.com</string>
+</dict>
+</plist>
